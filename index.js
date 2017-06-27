@@ -13,12 +13,12 @@ var ballX = 900;
 var ballY = 500;
 var ballSpeedX = 25;
 var ballSpeedY = 0;
-var radius = 80;
+var radius = 20;
 
 var paddle1Y = 250;
 var paddle2Y = 370;
 const PADDLE_THICKNESS = 30;
-const PADDLE_HEIGHT = 400;
+const PADDLE_HEIGHT = 200;
 const DIFFICULTY = 10;
 const BALL_CONTROL = 10;
 const POINTS_NEEDED = 10;
