@@ -19,7 +19,7 @@ var paddle1Y = 250;
 var paddle2Y = 370;
 const PADDLE_THICKNESS = 30;
 const PADDLE_HEIGHT = 200;
-const DIFFICULTY = 20;
+const DIFFICULTY = 10;
 const BALL_CONTROL = 10;
 const POINTS_NEEDED = 10;
 
